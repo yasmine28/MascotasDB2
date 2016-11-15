@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="pnombre">Lola</string>
+    <string name="ptipo">perro</string>
+    <string name="plikes">0 Likes</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="frm_enviarBtn">Enviar Comentario</string>
+
+    <string name="hint_name">Introduce el nombre</string>
+    <string name="hint_email">Introduce el email</string>
+    <string name="hint_mensaje">Comentario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
